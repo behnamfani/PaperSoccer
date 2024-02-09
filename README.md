@@ -5,4 +5,4 @@ or a point on the wall will give you another round. Thus, in each round, AI trys
 
 UI implementation is by Java Swing.
 
-![](Screenshot%20(526).png)
+![](reports/board.png)
