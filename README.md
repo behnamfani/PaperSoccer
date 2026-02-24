@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pictures/football_AI.jpg" alt="PaperSoccer Logo" width="200">
+  <img src="pictures/football_AI.png" alt="PaperSoccer Logo" width="200">
 </p>
 
 # PaperSoccer
