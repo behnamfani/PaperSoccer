@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pictures/football_AI.jpg" alt="PaperSoccer Logo" width="200">
+</p>
+
 # PaperSoccer
 
 **A Competitive Player vs Player and Player vs AI Soccer Game Using the Minimax Algorithm**
